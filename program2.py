@@ -16,7 +16,11 @@ class Solution(object):
         }
 
         result =0;
-        
+        prev_value = 0;
+
+        for char in s:
+            value = roman_map[char]
+            if 
 
         pass
 
