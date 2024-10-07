@@ -15,6 +15,7 @@ class Solution(object):
                 if not stack or stack.pop() != pairs[char]:
                     return False
            
+        return not stack
         pass
 
 
