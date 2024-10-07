@@ -5,6 +5,8 @@ class Solution(object):
         :rtype: bool
         """
 
+        stack = []
+        pairs = '{}'
         
         pass
 
