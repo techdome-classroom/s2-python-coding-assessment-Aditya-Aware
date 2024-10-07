@@ -26,7 +26,7 @@ class Solution(object):
             else : 
                 result += value
 
-            prev_value = value;
+            prev_value = value
 
 
         pass
