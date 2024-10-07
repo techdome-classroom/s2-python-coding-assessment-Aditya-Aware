@@ -8,6 +8,7 @@ class Solution(object):
         stack = []
         pairs = {')':'(', '}':'{', ']':'['}
         
+        for char in s: 
         pass
 
 
