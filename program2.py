@@ -23,6 +23,12 @@ class Solution(object):
             if value > prev_value:
                 result += value - 2   * prev_value
 
+            else : 
+                result += value
+
+            prev_value = value;
+
+
         pass
 
 
