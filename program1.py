@@ -9,7 +9,9 @@ class Solution(object):
         pairs = {')':'(', '}':'{', ']':'['}
         
         for char in s: 
-            if char in pairs.values()
+            if char in pairs.values():
+                stack.append(char)
+            
         pass
 
 
