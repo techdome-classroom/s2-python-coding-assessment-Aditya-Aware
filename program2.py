@@ -27,7 +27,7 @@ class Solution(object):
                 result += value
 
             prev_value = value
-
+        return result
 
         pass
 
