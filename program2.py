@@ -15,8 +15,8 @@ class Solution(object):
             'M': 1000
         }
 
-        result =0;
-        prev_value = 0;
+        result =0
+        prev_value = 0
 
         for char in s:
             value = roman_map[char]
