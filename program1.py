@@ -9,7 +9,7 @@ class Solution(object):
         pairs = {')':'(', '}':'{', ']':'['}
         
         for char in s: 
-            if c
+            if char in pair
         pass
 
 
