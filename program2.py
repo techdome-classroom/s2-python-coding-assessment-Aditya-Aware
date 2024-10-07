@@ -21,7 +21,7 @@ class Solution(object):
         for char in s:
             value = roman_map[char]
             if value > prev_value:
-                result -= 2 * prev_value
+                result += 2 * prev_value
 
         pass
 
