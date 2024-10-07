@@ -15,6 +15,9 @@ class Solution(object):
             'M': 1000
         }
 
+        result =0;
+        
+
         pass
 
 
